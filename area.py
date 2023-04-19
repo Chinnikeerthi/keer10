@@ -1,0 +1,10 @@
+l=int(input('enter the length of rectangle'))
+b=int(input('enter the breadth of rectangle'))
+a=l*b
+print(a,'is area of rectangle')
+s=int(input('enter the sid of square'))
+print(s*s,'is area of square')
+z=int(input('enter the breadth of triangle'))
+h=int(input('enter the height of triangle'))
+c=1/2*(b*h)
+print(c ,'is area of triangle')
